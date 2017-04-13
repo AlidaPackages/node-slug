@@ -1,3 +1,5 @@
+*** This is a Fork of node-slug with the unicode support removed - no longer have to handle issues related t unicode/category/So ***
+
 # [slug](https://github.com/dodo/node-slug)
 
 slugifies every string, even when it contains unicode!
