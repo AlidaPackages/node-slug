@@ -1,5 +1,8 @@
 {
-  "name": "slug",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "name": "@AlidaPackages/slug",
   "description": "slugifies even utf-8 chars!",
   "version": "0.9.1",
   "homepage": "https://github.com/dodo/node-slug",
